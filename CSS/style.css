@@ -1,0 +1,23 @@
+body {
+    background: rgb(22, 22, 22); color: rgb(255, 123, 0);
+    margin-left: 50px ;
+    margin-right: 200px;
+}
+
+h1 {
+    color: white;
+    font-family:helvetica;
+}
+
+p{
+    font-size: 18px;
+}
+
+header{
+    margin-top: 200px;
+}
+
+.imgPadrao {
+    margin-block-end: 25px;
+    width: 400px;
+}
